@@ -1,7 +1,7 @@
 # ⚡️🧠 DevEase AI - Your Open Source Micro SaaS AI Code Companion
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen)](https://dev-ease-zeta.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/muzaffar401/DevEase.git)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/adeelmaheen/DevEase-Main.git)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
