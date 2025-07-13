@@ -44,7 +44,7 @@ function Header() {
             </Button>
             <Link href={'/'} className="flex items-center space-x-2">
               <Image src={'/logo.png'} alt="logo" width={32} height={32} />
-              <span className="font-bold text-lg text-gray-900 hidden sm:block">CodeMind AI</span>
+              <span className="font-bold text-lg text-gray-900 hidden sm:block">DevEase AI</span>
             </Link>
           </div>
           {/* Actions */}
