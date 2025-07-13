@@ -169,10 +169,14 @@ function LandingPage() {
             <div className="hidden md:flex items-center space-x-4">
               {!userDetail?.name ? (
                 <>
-                  <Button variant="ghost" onClick={() => setOpenDialog(true)}>
+                  <Button
+                    variant="ghost"
+                    onClick={() => setOpenDialog(true)}
+                    className="text-gray-600 hover:text-white"
+                  >
                     Sign In
                   </Button>
-                  <Button 
+                  <Button
                     onClick={() => setShowChat(true)}
                     className="bg-blue-600 hover:bg-blue-700 text-white"
                   >
@@ -182,7 +186,7 @@ function LandingPage() {
               ) : (
                 <div className="flex items-center space-x-4">
                   <span className="text-sm text-gray-600">Welcome, {userDetail.name}</span>
-                  <Button 
+                  <Button
                     onClick={() => setShowChat(true)}
                     className="bg-blue-600 hover:bg-blue-700 text-white"
                   >
@@ -213,7 +217,7 @@ function LandingPage() {
                     <Button variant="ghost" onClick={() => setOpenDialog(true)}>
                       Sign In
                     </Button>
-                    <Button 
+                    <Button
                       onClick={() => setShowChat(true)}
                       className="bg-blue-600 hover:bg-blue-700 text-white"
                     >
@@ -221,7 +225,7 @@ function LandingPage() {
                     </Button>
                   </div>
                 ) : (
-                  <Button 
+                  <Button
                     onClick={() => setShowChat(true)}
                     className="bg-blue-600 hover:bg-blue-700 text-white"
                   >
@@ -243,11 +247,11 @@ function LandingPage() {
               <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent"> AI Power</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              Transform your ideas into production-ready applications in seconds. 
+              Transform your ideas into production-ready applications in seconds.
               No coding experience required.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-              <Button 
+              <Button
                 onClick={() => setShowChat(true)}
                 size="lg"
                 className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 text-lg"
@@ -321,7 +325,7 @@ function LandingPage() {
                   <p className="text-gray-600 mb-6">{plan.tokens} Tokens</p>
                   <p className="text-sm text-gray-500 mb-8">{plan.desc}</p>
                   <Link href="/pricing">
-                    <Button 
+                    <Button
                       className={`w-full ${index === 2 ? 'bg-blue-600 hover:bg-blue-700 text-white' : 'bg-gray-100 hover:bg-gray-200 text-gray-900'}`}
                     >
                       Get Started
@@ -349,8 +353,8 @@ function LandingPage() {
             {testimonials.map((testimonial, index) => (
               <div key={index} className="bg-gray-50 rounded-2xl p-8">
                 <div className="flex items-center mb-4">
-                  <img 
-                    src={testimonial.avatar} 
+                  <img
+                    src={testimonial.avatar}
                     alt={testimonial.name}
                     className="w-12 h-12 rounded-full mr-4"
                   />
@@ -375,7 +379,7 @@ function LandingPage() {
           <p className="text-xl text-blue-100 mb-8">
             Join thousands of developers who are already building with AI.
           </p>
-          <Button 
+          <Button
             onClick={() => setShowChat(true)}
             size="lg"
             className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 text-lg"
@@ -395,7 +399,7 @@ function LandingPage() {
                 <span className="text-xl font-bold">CodeMind AI</span>
               </div>
               <p className="text-gray-400 mb-4 max-w-md">
-                Empowering developers to build faster with AI-powered code generation. 
+                Empowering developers to build faster with AI-powered code generation.
                 Transform your ideas into reality in seconds.
               </p>
               <div className="flex space-x-4">
