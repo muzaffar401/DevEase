@@ -1,18 +1,20 @@
-# ⚡️🧠 CodeMind AI - Your Open Source Micro SaaS AI Code Companion
+# ⚡️🧠 DevEase AI - Your Open Source Micro SaaS AI Code Companion
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen)](https://dev-ease-zeta.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/muzaffar401/DevEase.git)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <img src="https://dev-ease-zeta.vercel.app/logo.png" alt="CodeMind AI Logo" width="100" />
+  <a href="public/Logo.mp4" title="Click to watch the demo video">
+    <img src="public/preview.gif" alt="DevEase AI Demo" />
+  </a>
 </p>
 
 
 
-Welcome to **CodeMind AI**! 🚀
+Welcome to **DevEase AI**! 🚀
 
-**CodeMind AI** is an **open-source micro SaaS** application designed to revolutionize the way developers interact with code.
+**DevEase AI** is an **open-source micro SaaS** application designed to revolutionize the way developers interact with code.
 
 Whether you're a seasoned developer or just starting out, CodeMind AI streamlines your workflow, making coding faster, smarter, and more enjoyable.
 
@@ -195,7 +197,7 @@ CodeMind AI features a beautifully designed, modern interface that enhances your
 - **📊 Token Management**: Clear token display and usage tracking
 - **🔍 Interactive Elements**: Hover effects, loading states, and micro-interactions
 
-## 🤝 Contributing: Join the CodeMind AI Community
+## 🤝 Contributing: Join the DevEase AI Community
 
 Contributions are what make the open-source community such a fantastic place to learn, inspire, and create. We warmly welcome contributions of all sizes, from bug fixes to major features.
 
@@ -232,3 +234,6 @@ Contributions are what make the open-source community such a fantastic place to 
 
 CodeMind AI is proudly open-source, licensed under the [MIT License](LICENSE). This permissive license allows you to use, modify, and distribute the code, ensuring that CodeMind AI remains a community-driven project.
 
+## Created By Maheen Arif & Muzaffer Ahmed 
+- Email: maheenadeel3@gmail.com
+- Email: ma9400667@gmail.com
