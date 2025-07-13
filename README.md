@@ -1,11 +1,11 @@
 # ⚡️🧠 CodeMind AI - Your Open Source Micro SaaS AI Code Companion
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen)](https://code-mind-ai.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/nasserml/code-mind-ai-bolt-clone)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen)](https://dev-ease-zeta.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/muzaffar401/DevEase.git)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <img src="https://code-mind-ai.vercel.app/logo.png" alt="CodeMind AI Logo" width="100" />
+  <img src="https://dev-ease-zeta.vercel.app/logo.png" alt="CodeMind AI Logo" width="100" />
 </p>
 
 
@@ -43,7 +43,7 @@ Whether you're a seasoned developer or just starting out, CodeMind AI streamline
 
 Ready to experience CodeMind AI in action? Check out our live demo:
 
-👉 **[Live Demo](https://code-mind-ai.vercel.app/)**
+👉 **[Live Demo](https://dev-ease-zeta.vercel.app/)**
 
 
 ## 🛠 Technologies Powering CodeMind AI
@@ -75,8 +75,8 @@ Embarking on your CodeMind AI journey is easy. Follow these steps to get started
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/nasserml/code-mind-ai-bolt-clone.git
-cd code-mind-ai-bolt-clone
+git clone https://github.com/muzaffar401/DevEase.git
+cd DevEase
 ```
 
 ### 2. **Install Dependencies**
